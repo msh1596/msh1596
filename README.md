@@ -8,5 +8,5 @@
 - 🌍 I'm mostly active within the **Laravel Community**
 - 🌱 Learning all about **Open Source**
 - 💬 Ping me about **branding**, **laravel**, **development**, **design thinking**
-- 📫 Reach me: [twitter.com/caneco](https://twitter.com/themshllaku)
+- 📫 Reach me: [twitter.com/themshllaku](https://twitter.com/themshllaku)
 -->
